@@ -1,2 +1,4 @@
 12345
-00000
+line
+str
+new year
